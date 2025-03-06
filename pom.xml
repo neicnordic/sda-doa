@@ -128,7 +128,7 @@
         <dependency>
             <groupId>no.elixir</groupId>
             <artifactId>clearinghouse</artifactId>
-            <version>2.0.11</version>
+            <version>2.0.14</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.slf4j</groupId>
