@@ -1,3 +1,6 @@
+> ### Archival notice
+> :warning: **This repository is no longer maintained. The code has been integrated and it is further developed at: https://github.com/neicnordic/sensitive-data-archive**
+
 # NeIC sda-doa Data Out API
 ![Java CI](https://github.com/neicnordic/sda-doa/workflows/Java%20CI/badge.svg)
 
